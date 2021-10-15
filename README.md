@@ -5,8 +5,8 @@ The code to reproduce the simulations in the article is based on https://github.
 
 ### Video
 
+[![Fig9s](https://user-images.githubusercontent.com/45031224/137501599-022e5d5c-035e-4517-8197-9c8bff5f6eed.png)](https://youtu.be/5N-J332B6fs)
 
-[![Fig9s](https://user-images.githubusercontent.com/45031224/137500009-6ce7776e-13ff-4ed5-942b-7b3aa42426fe.png)](https://youtu.be/5N-J332B6fs)
 
 ### Abstract
 
@@ -14,3 +14,7 @@ We study patterns of partial synchronization in a network of FitzHugh–Nagumo o
 
 ### Talk
 [![Test](https://user-images.githubusercontent.com/45031224/137501063-c52a5914-f50a-45f3-a359-4050368dd03f.png)](https://youtu.be/WQ1UCewp2IQ)
+
+
+# Figure
+![Fig9s](https://user-images.githubusercontent.com/45031224/137500009-6ce7776e-13ff-4ed5-942b-7b3aa42426fe.png)
