@@ -3,7 +3,7 @@ Gerster et al. 2020. “[FitzHugh–Nagumo Oscillators on Complex Networks Mimic
 
 The code to reproduce the simulations in the article is based on https://github.com/kekstoaster/Chimera.
 
-https://www.youtube.com/watch?v=5N-J332B6fs&t=3s
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5N-J332B6fs&t=3s/0.jpg)](https://www.youtube.com/watch?v=5N-J332B6fs&t=3s)
 
 ### Abstract
 
