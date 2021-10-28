@@ -1,3 +1,4 @@
+[![DOI](https://img.shields.io/badge/Preprint-Gerster%20et%20al.%202021-brightgreen)](https://doi.org/10.1063/5.0021420)
 # Simulation of Epileptic Seizures
 Gerster, Moritz, Rico Berner, Jakub Sawicki, Anna Zakharova, Antonín Škoch, Jaroslav Hlinka, Klaus Lehnertz, and Eckehard Schöll. 2020. “[FitzHugh–Nagumo Oscillators on Complex Networks Mimic Epileptic-Seizure-Related Synchronization Phenomena.](https://doi.org/10.1063/5.0021420)” Chaos 30 (12): 123130.
 
